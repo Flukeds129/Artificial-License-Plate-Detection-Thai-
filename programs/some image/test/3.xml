@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>test</folder>
+	<filename>3.jpg</filename>
+	<path>C:\Users\fluke\Desktop\Project\experiment\Tesseract Engine\Tensorflow-License-Plate-Detection\images\backup\carAll\test\3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>246</ymin>
+			<xmax>288</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>
